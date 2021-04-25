@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+.top_container {
+  background-color: #9ddfd3;
+  margin: 0;
+}
+h1 {
+  border: 100px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 200%;
+  margin: 0;
+  /* 16px = 100% = 1em */
+}
+.top-c {
+  position: absolute;
+  top: 200px;
+  left: 600px;
+}
+.bottom-c {
+  position: absolute;
+  top: 400px;
+  left: 100px;
+}
